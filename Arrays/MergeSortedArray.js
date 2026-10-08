@@ -21,3 +21,11 @@ var merge = function(nums1, m, nums2, n) {
     }
 
 };
+
+
+// Arrays/mergeSortedArray.js
+// LeetCode 88 - Merge Sorted Array
+
+var merge = function(nums1, m, nums2, n) {
+
+};
